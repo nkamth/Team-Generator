@@ -1,0 +1,17 @@
+header{
+    color: white;
+    background-color: brown;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    margin: 15px;
+    padding: 10px;
+}
+
+main{
+    display: flex;
+    flex-wrap:wrap ;
+    margin: 15px;
+    padding: 10px;
+}
