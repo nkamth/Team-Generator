@@ -1,5 +1,5 @@
 function createTeam(team) {
-  console.log(">>>> team is inside create Team:");
+  console.log("***** The TEAM ***** : ");
   console.log(team);
 
   // Create an empty array to push html elements on to and loop through the team data
@@ -7,7 +7,7 @@ function createTeam(team) {
 
   // Create functions for each type of employee that returns HTML data
   function createManager(manager) {
-    console.log(">>>> Manager HTML data >>>>");
+    console.log("***** Manager HTML data *****");
 
     let managerHtml = `<div class="card" style="width: 18rem;">
         <div class="card-header">
@@ -23,7 +23,7 @@ function createTeam(team) {
   }
 
   function createEngineer(engineer) {
-    console.log(">>>> Engineer HTML data >>>>");
+    console.log("***** Engineer HTML data *****");
 
     let engineerHtml = `
     <div class="card" style="width: 18rem;">
@@ -41,7 +41,7 @@ function createTeam(team) {
   }
 
   function createIntern(intern) {
-    console.log(">>> Intern HTML Data");
+    console.log("***** Intern HTML Data *****");
 
     let internHtml = `
     <div class="card" style="width: 18rem;">
