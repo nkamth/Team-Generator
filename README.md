@@ -8,6 +8,12 @@ The below link is a demonstration of how this 'deployed' application works. This
 
 View a complete Video demonstrarion of the application: [Team Profile Generator](https://drive.google.com/file/d/10CHANrmebQF8QljSnBmG6kWde2URjSAe/view)
 
+
+
+https://user-images.githubusercontent.com/97250880/177063233-3b160fe5-cd8b-4dcf-aeac-2c6be4a59b73.mp4
+
+
+
 ## Table of Contents
 
 - [Description](#description)
