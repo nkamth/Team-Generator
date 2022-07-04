@@ -6,7 +6,7 @@
 
 The below link is a demonstration of how this 'deployed' application works. This generates an HTML that displays a nicely formatted Team based on user input.
 
-View a complete Video demonstrarion of the application: [Team Profile Generator]()
+View a complete Video demonstrarion of the application: [Team Profile Generator](https://drive.google.com/file/d/10CHANrmebQF8QljSnBmG6kWde2URjSAe/view)
 
 ## Table of Contents
 
@@ -84,13 +84,12 @@ Finally, the program can then be run by entering `node index.js` into the comman
 Open the 'index.html' file from the dist folder in a web browser to view.
 
 ### Output Screenshot:
+
 <img width="1194" alt="Screen Shot 2022-07-03 at 8 15 48 PM" src="https://user-images.githubusercontent.com/97250880/177062463-59db0866-a822-4fea-ae0b-3223bcad709b.png">
 
 <img width="1183" alt="Screen Shot 2022-07-03 at 8 16 23 PM" src="https://user-images.githubusercontent.com/97250880/177062472-259949f8-7969-4643-ae71-703c1e8d5532.png">
 
-
 <img width="1054" alt="Screen Shot 2022-07-03 at 8 17 14 PM" src="https://user-images.githubusercontent.com/97250880/177062477-aaf55232-300c-4590-8b4d-892ad68451af.png">
-
 
 ## License:
 
